@@ -48,3 +48,6 @@ Este proyecto me permitió practicar:
 - Creación de una landing page con enfoque visual
 - Aplicación de efectos visuales sin necesidad de JavaScript
 
+## Vista previa de la lading page
+
+![Vista previa de la landing page](./img/captura.png)

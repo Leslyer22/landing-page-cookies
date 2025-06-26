@@ -18,8 +18,9 @@ Este proyecto es una landing page diseñada para presentar una marca de cookies 
 - ✅ Efecto de escala (`transform: scale`) en imágenes de productos al pasar el cursor.
 - ✅ Estilos limpios, uso de `flexbox` y `box-shadow`.
 - ✅ Transiciones suaves para una mejor experiencia visual.
-- ✅ Formulario de contacto estilizado (sin funcionalidad aún).
+- ✅ Formulario de contacto estilizado.
 - ✅ Uso de la metodología BEM para mantener CSS organizado
+- ✅ Navegación fluida a través del **navbar con anclas internas** que llevan a cada sección de la página (`#home`, `#about`, `#flavors`, `#contact`).
 
 ---
 
